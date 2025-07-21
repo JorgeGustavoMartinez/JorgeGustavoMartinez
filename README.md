@@ -1,5 +1,53 @@
-# 💫 About Me:
-Tnl Computer<br>Mis conocimientos en HTLM, CSS, JAVASCRIPT, LOCKER, PENTAHO, JAVA, PYTHON, PHP, LARAVEL, SYMPHONY COBOL, ANGULAR, VUE<br>Aprendiendo Business Inteligence con Python<br>Soy muy autodidactico<br>- Me encantan los autos
+# 👋 ¡Hola, soy [Tu Nombre]!
+
+¡Bienvenido a mi perfil de GitHub!  
+Soy Jorge Martinez apasionado por las tecnologias con experiencia en **[tus skills (lo que sabes hacer)]**.  
+Me encanta aprender tecnologías nuevas y construir proyectos que generen impacto.
+
+---
+
+## 🛠️ Habilidades clave
+
+- ✅ Lenguajes: [Ejemplo: JavaScript, Python, PHP, Java]
+- ✅ Frameworks: [Ejemplo: Laravel, React, Node.js, Django]
+- ✅ Bases de datos: [Ejemplo: MySQL, PostgreSQL, MongoDB]
+- ✅ Herramientas: [Ejemplo: Git, Docker, VSCode, Linux, CI/CD]
+- ✅ Otros: [Ejemplo: APIs REST, Web Scraping, Testing]
+
+---
+
+## 🚀 En qué estoy enfocado actualmente
+
+Actualmente me encuentro trabajando en:
+- 🔍 **[Proyecto o tecnología que estás aprendiendo]**
+- ✨ Mejorando mis habilidades en **[Área de interés, ej: desarrollo backend, data analytics, devops, etc.]**
+- 📈 Contribuyendo a proyectos open-source y mejorando mi flujo de trabajo con Git y Docker
+
+---
+
+## 📬 ¡Conectemos!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/TU-LINKEDIN)  
+- 📧 Email: [TU EMAIL]  
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight)
+
+---
+
+## 🎉 Un poco más sobre mí
+> *"La mejor manera de predecir el futuro es crearlo."*  
+> Siempre motivado a seguir aprendiendo, compartiendo y colaborando 🚀
+
+---
+
+![gif dev](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 
 ## 🌐 Socials:
