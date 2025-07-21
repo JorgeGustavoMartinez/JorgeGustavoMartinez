@@ -1,7 +1,7 @@
-# 👋 ¡Hola, soy [Tu Nombre]!
+# 👋 ¡Hola, soy Jorge Martinez!
 
 ¡Bienvenido a mi perfil de GitHub!  
-Soy Jorge Martinez apasionado por las tecnologias con experiencia en **[tus skills (lo que sabes hacer)]**.  
+Soy un apasionado por las tecnologias con experiencia en **[tus skills (lo que sabes hacer)]**.  
 Me encanta aprender tecnologías nuevas y construir proyectos que generen impacto.
 
 ---
