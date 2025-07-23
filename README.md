@@ -19,7 +19,7 @@ Me encanta aprender tecnologías nuevas y construir proyectos que generen impact
 ## 🚀 En qué estoy enfocado actualmente
 
 Actualmente me encuentro trabajando en:
-- 🔍 **[Proyecto o tecnología que estás aprendiendo]**
+- 🔍 Proyecto Fraschina srl
 - ✨ Mejorando mis habilidades en  desarrollo backend, data analytics, devops
 - 📈 Contribuyendo a proyectos open-source y mejorando mi flujo de trabajo con Git y Docker
 
