@@ -34,9 +34,9 @@ Actualmente me encuentro trabajando en:
 
 ## 📊 Estadísticas de GitHub
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JorgeGustavoMartinez&show_icons=true&theme=tokyonight)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeGustavoMartinez&layout=compact&theme=tokyonight)
 
 ---
 
