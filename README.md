@@ -27,7 +27,7 @@ Actualmente me encuentro trabajando en:
 
 ## 📬 ¡Conectemos!
 
-- [![LinkedIN](https://www.linkedin.com/in/jorgegustavomartinez&icon=0&color=0)](https://visitcount.itsvg.in)
+- [![LinkedIN](https://www.linkedin.com/in/jorgegustavomartinez&icon=0&color=0)]
 
 - 📧 Email: jgmartinez1965@gmail.com  
 
