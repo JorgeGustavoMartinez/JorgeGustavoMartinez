@@ -36,11 +36,10 @@ Actualmente me encuentro trabajando en:
 
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JorgeGustavoMartinez&show_icons=true&theme=tokyonight)
 
+![](https://nirzak-streak-stats.vercel.app/?user=JorgeGustavoMartinez&theme=dark&hide_border=false)
+
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeGustavoMartinez&layout=compact&theme=tokyonight)
 
-
-![](https://nirzak-streak-stats.vercel.app/?user=JorgeGustavoMartinez&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeGustavoMartinez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
