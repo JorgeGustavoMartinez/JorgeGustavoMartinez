@@ -27,7 +27,7 @@ Actualmente me encuentro trabajando en:
 
 ## 📬 ¡Conectemos!
 
-- [![LinkedIN](https://www.linkedin.com/feed/?nis=true&&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bgleoy1v6QGOqHzWONqGuMw%3D%3D))]
+- [![LinkedIN](https://www.linkedin.com/feed/?nis=true&&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bgleoy1v6QGOqHzWONqGuMw%3D%3D)]
 
 - 📧 Email: jgmartinez1965@gmail.com  
 
