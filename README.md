@@ -1,7 +1,7 @@
 # 👋 ¡Hola, soy Jorge Martinez!
 
 ¡Bienvenido a mi perfil de GitHub!  
-Soy un apasionado por las tecnologias con experiencia en **[tus skills (lo que sabes hacer)]**.  
+Soy un apasionado por las tecnologias con experiencia en  HTML | CSS | JS | ReactJS | PHP | Laravel | Solid | SQL | Express | React | Angular | Vue | Python | Django | Git bash | GitHub | Java | Business Intelligence | Cobol.  
 Me encanta aprender tecnologías nuevas y construir proyectos que generen impacto.
 
 ---
