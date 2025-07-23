@@ -8,11 +8,11 @@ Me encanta aprender tecnologías nuevas y construir proyectos que generen impact
 
 ## 🛠️ Habilidades clave
 
-- ✅ Lenguajes: [Ejemplo: JavaScript, Python, PHP, Java]
-- ✅ Frameworks: [Ejemplo: Laravel, React, Node.js, Django]
-- ✅ Bases de datos: [Ejemplo: MySQL, PostgreSQL, MongoDB]
-- ✅ Herramientas: [Ejemplo: Git, Docker, VSCode, Linux, CI/CD]
-- ✅ Otros: [Ejemplo: APIs REST, Web Scraping, Testing]
+- ✅ Lenguajes: [JavaScript, Python, PHP, Java]
+- ✅ Frameworks: [Laravel, React, Node.js, Django]
+- ✅ Bases de datos: [MySQL, PostgreSQL, MongoDB]
+- ✅ Herramientas: [Git, Docker, VSCode, Linux, CI/CD]
+- ✅ Otros: [APIs REST, Web Scraping, Testing]
 
 ---
 
@@ -20,15 +20,15 @@ Me encanta aprender tecnologías nuevas y construir proyectos que generen impact
 
 Actualmente me encuentro trabajando en:
 - 🔍 **[Proyecto o tecnología que estás aprendiendo]**
-- ✨ Mejorando mis habilidades en **[Área de interés, ej: desarrollo backend, data analytics, devops, etc.]**
+- ✨ Mejorando mis habilidades en  desarrollo backend, data analytics, devops
 - 📈 Contribuyendo a proyectos open-source y mejorando mi flujo de trabajo con Git y Docker
 
 ---
 
 ## 📬 ¡Conectemos!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/TU-LINKEDIN)  
-- 📧 Email: [TU EMAIL]  
+- 💼 [LinkedIn](https://www.linkedin.com/in/JorgeGustavoMartinez)  
+- 📧 Email: jgmartinez1965@gmail.com  
 
 ---
 
