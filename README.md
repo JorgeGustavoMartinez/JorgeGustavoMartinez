@@ -43,6 +43,28 @@ Actualmente me encuentro trabajando en:
 ## 🎉 Un poco más sobre mí
 > *"La mejor manera de predecir el futuro es crearlo."*  
 > Siempre motivado a seguir aprendiendo, compartiendo y colaborando 🚀
+> Soy un desarrollador Full Stack con experiencia en el diseño, desarrollo y mantenimiento de aplicaciones web modernas. Domino tecnologías tanto del lado del servidor como del cliente, trabajando con Laravel, PHP, JavaScript, Bootstrap, React y bases de datos como MySQL y SQL Server para construir soluciones completas y eficientes.
+
+Me especializo en crear interfaces amigables y funcionales, así como en desarrollar APIs y lógica backend robusta, que garantizan una experiencia de usuario fluida y un rendimiento óptimo. También cuento con experiencia en la administración y configuración de entornos de desarrollo y producción, utilizando herramientas como Docker, SSH, y gestionando servidores NAS (QNAP y Synology).
+
+Además, tengo habilidades en automatización, análisis de datos y generación de informes con herramientas como Google Sheets y Looker Studio, lo que me permite aportar valor en proyectos de integración y visualización de datos.
+
+Soy una persona organizada, orientada a la mejora continua y con capacidad para trabajar tanto en equipos multidisciplinarios como de forma autónoma. Me apasiona aprender nuevas tecnologías y aplicarlas para crear soluciones innovadoras que resuelvan problemas reales y mejoren procesos.
+
+Mi objetivo profesional es crecer como desarrollador Full Stack, contribuyendo a proyectos que impulsen la transformación digital y la eficiencia operativa.Soy un desarrollador Full Stack con experiencia en el diseño, desarrollo y mantenimiento de aplicaciones web modernas. Domino tecnologías tanto del lado del servidor como del cliente, trabajando con Laravel, PHP, JavaScript, Bootstrap, React y bases de datos como MySQL y SQL Server para construir soluciones completas y eficientes. Me especializo en crear interfaces amigables y funcionales, así como en desarrollar APIs y lógica backend robusta, que garantizan una experiencia de usuario fluida y un rendimiento óptimo. También cuento con experiencia en la administración y configuración de entornos de desarrollo y producción, utilizando herramientas como Docker, SSH, y gestionando servidores NAS (QNAP y Synology). Además, tengo habilidades en automatización, análisis de datos y generación de informes con herramientas como Google Sheets y Looker Studio, lo que me permite aportar valor en proyectos de integración y visualización de datos. Soy una persona organizada, orientada a la mejora continua y con capacidad para trabajar tanto en equipos multidisciplinarios como de forma autónoma. Me apasiona aprender nuevas tecnologías y aplicarlas para crear soluciones innovadoras que resuelvan problemas reales y mejoren procesos. Mi objetivo profesional es crecer como desarrollador Full Stack, contribuyendo a proyectos que impulsen la transformación digital y la eficiencia operativa.
+ActividadActividad
+170 seguidores170 seguidores
+
+Crear una publicación
+
+Publicaciones
+
+Comentarios
+Se han cargado Publicaciones publicaciones de 3
+Jorge Martinez ha publicado esto • 5 horas5 horas
+¡Me alegra contaros que he obtenido un nuevo certificado: LinkedIn para profesionales: construye tu marca y genera oportunidades de Alura Latam!
+
+¡Me alegra contaros que he obtenido un nuevo certificado: LinkedIn para profesionales: construye tu marca y genera oportunidades
 
 ---
 
