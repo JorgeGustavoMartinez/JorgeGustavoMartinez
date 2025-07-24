@@ -43,6 +43,8 @@ Soy un apasionado de la tecnología con experiencia en desarrollo **Full Stack**
 ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-0A0A0A?style=flat&logo=githubactions&logoColor=white)
+🟦 Pentaho (ETL)
+
 
 
 ---
