@@ -20,7 +20,7 @@ MySQL · PostgreSQL · MongoDB · MariaDB · SQL Server
 Docker · Git · GitHub Actions · GitLab · CI/CD · VSCode · Linux · SSH · Webpack · Vite · Yarn · Trello · Postman
 
 **Otras habilidades:**  
-APIs REST · Web Scraping · Testing · Adobe Tools · Google Sheets · Looker Studio · Automatización · NAS QNAP/Synology
+APIs REST · Web Scraping · Testing · Adobe Tools · Google Sheets · Looker Studio · Automatización
 
 ---
 
@@ -49,8 +49,7 @@ Desarrollador Full Stack con experiencia en el diseño, desarrollo y mantenimien
 ✔️ Interfaces amigables (React, Bootstrap, Vue, Angular)  
 ✔️ APIs y lógica backend (Laravel, Express, Django)  
 ✔️ DevOps y entornos productivos (Docker, SSH, CI/CD)  
-✔️ Visualización de datos (Looker Studio, Google Sheets)  
-✔️ Servidores NAS (QNAP y Synology)
+✔️ Visualización de datos (Looker Studio, Google Sheets)
 
 Soy organizado, proactivo, y me encanta colaborar en equipos multidisciplinarios o de forma autónoma. Siempre busco aprender y aplicar nuevas tecnologías que mejoren procesos y aporten valor.
 
@@ -67,4 +66,3 @@ Seguir creciendo como desarrollador Full Stack, contribuyendo a proyectos que im
 ---
 
 ![Dev gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
